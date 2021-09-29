@@ -2,7 +2,7 @@ html,
 body {
   height: 100%;
   scroll-behavior: smooth;
-  overflow-x: hidden;
+  overflow-x: hidden
 }
 
 body {
@@ -663,7 +663,7 @@ hr {
 .foodLayout2 {
   display: flex;
   flex-direction: row;
-  margin: -150px auto;
+  margin: -50px auto;
 }
 
 .Glassmorphism {
